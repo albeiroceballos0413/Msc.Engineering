@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos binarios de MATLAB / Python
+*.mat
+*.npz
+
+# GIFs
+*.gif
+
+# Otros
+__pycache__/
+.ipynb_checkpoints/
